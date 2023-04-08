@@ -6,3 +6,6 @@ written in C++ using the Mandelbrot algorithm
 
 * [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
 * John Purcell from [caveofprogramming.com](caveofprogramming.com)
+
+
+#### Results

@@ -7,11 +7,8 @@
 
 #include <fstream>
 #include "Bitmap.h"
-#include "BitmapInfoHeader.h"
-#include "BitmapFileHeader.h"
-
-using namespace mainfractal;
-using namespace std;
+#include "../BitmapHeaders/BitmapInfoHeader.h"
+#include "../BitmapHeaders/BitmapFileHeader.h"
 
 namespace mainfractal {
 
@@ -64,7 +61,6 @@ void Bitmap::setPixel(int x, int y, uint8_t red, uint8_t green, uint8_t blue) {
 }
 
 Bitmap::~Bitmap() {
-	// TODO Auto-generated destructor stub
 }
 
 } /* namespace mainfractal */

@@ -5,8 +5,8 @@
  *      Author: romaincaron
  */
 
-#include "FractalCreator.h"
-#include "RGB.h"
+#include "FractalCreator/FractalCreator.h"
+#include "RGB/RGB.h"
 #include <iostream>
 
 using namespace std;

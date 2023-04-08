@@ -12,11 +12,11 @@
 #include <cstdint>
 #include <memory>
 #include <cmath>
-#include "Zoom.h"
-#include "Mandelbrot.h"
-#include "Bitmap.h"
-#include "ZoomList.h"
-#include "RGB.h"
+#include "../Zoom/Zoom.h"
+#include "../Mandelbrot/Mandelbrot.h"
+#include "../Bitmap/Bitmap.h"
+#include "../ZoomList/ZoomList.h"
+#include "../RGB/RGB.h"
 
 using namespace std;
 

@@ -8,7 +8,7 @@
 #ifndef FRACTAL_ZOOMLIST_H
 #define FRACTAL_ZOOMLIST_H
 
-#include "Zoom.h"
+#include "../Zoom/Zoom.h"
 #include <vector>
 #include <utility>
 

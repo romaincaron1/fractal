@@ -9,3 +9,5 @@ written in C++ using the Mandelbrot algorithm
 
 
 #### Results
+
+![results](https://raw.githubusercontent.com/romaincaron1/fractal/main/test.bmp)
